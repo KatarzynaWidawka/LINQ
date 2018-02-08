@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LINQ.Program">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="LINQ.Program.Helper">
+        <TypeIdentifier>
+          <NewMemberFileName>Helper.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Interface Name="LINQ.Program.IUser" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Helper.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Interface>
+      <Class Name="LINQ.Program.Patient" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Helper.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="LINQ.Program.Doctor" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Helper.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Struct Name="LINQ.Program.PatientInfo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Helper.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
